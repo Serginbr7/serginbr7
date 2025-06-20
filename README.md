@@ -1,13 +1,11 @@
 # Olá! Eu sou o Sérgio Henrique 👋
 
-Sou um profissional de TI apaixonado por tecnologia e focado em construir uma carreira na área de Suporte e Governança. Atualmente, estou aprofundando meus conhecimentos em **Segurança da Informação** e nas melhores práticas de mercado, como as normas **ISO 27001 e 27002**.
+Sou um estudante de TI buscando ingressar no mercado de trabalho. Meu foco principal de estudo e aprofundamento é em **Segurança da Informação e Governança**, aplicando as melhores práticas de mercado com base nas normas **ISO 27001 e 27002**.
 
-Acredito que um suporte técnico de qualidade vai além de resolver problemas: ele garante a segurança, a estabilidade e a integridade do ambiente tecnológico de uma empresa.
+Paralelamente, tenho grande interesse e venho desenvolvendo minhas habilidades em **Desenvolvimento Front-end**, utilizando tecnologias como HTML, CSS e JavaScript para criar interfaces de usuário intuitivas e funcionais.
 
 ---
-
 ### 🔧 Tecnologias e Ferramentas
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -31,43 +29,39 @@ Acredito que um suporte técnico de qualidade vai além de resolver problemas: e
       <br><strong>GitHub</strong>
     </td>
   </tr>
-</table>
-
----
-
-### 🚀 Meus Principais Projetos
-
-<table>
   <tr>
-    <td>
-      <a href="https://github.com/seu-usuario/politica-de-seguranca-corporativa">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=politica-de-seguranca-corporativa&theme=tokyonight&show_owner=true" />
-        </a>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <br><strong>HTML5</strong>
     </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      <br><strong>CSS3</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="96">
+      </td>
   </tr>
 </table>
 
 ---
+### 🚀 Meus Projetos
 
-### 📊 Minhas Estatísticas no GitHub
+* **[policica-de-seguranca-corporativa](https://github.com/Serginbr7/politica-de-seguranca-corporativa)** - Repositório com documentação prática de Segurança da Informação (Controle de Acesso, Resposta a Incidentes e Hardening), com base nos controles da norma ISO 27002.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=tokyonight"/>
-  </p>
+*Em breve, novos projetos...*
 
+---
+### 📫 Como me Encontrar
 
-<!--
-**Serginbr7/serginbr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="mailto:henriquesilvasergio10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="LINK-DO-SEU-LINKEDIN-AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
