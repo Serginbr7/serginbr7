@@ -65,7 +65,3 @@ Paralelamente, tenho grande interesse e venho desenvolvendo minhas habilidades e
 <a href="mailto:henriquesilvasergio10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/sérgio-henrique-da-silva-3a5404238"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmt0bHF2OXk4bmJyNmtzNmE3ZnYxc3NocGJicXJtbno3aXo2dGpyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR5h526uV1T34UE/giphy.gif" width="100%"/>
-</p>
