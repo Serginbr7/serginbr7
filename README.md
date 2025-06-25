@@ -54,7 +54,7 @@ Paralelamente, tenho grande interesse e venho desenvolvendo minhas habilidades e
 ---
 ### 🚀 Meus Projetos
 
-* **[policica-de-seguranca-corporativa](https://github.com/Serginbr7/politica-de-seguranca-corporativa)** - Repositório com documentação prática de Segurança da Informação (Controle de Acesso, Resposta a Incidentes e Hardening), com base nos controles da norma ISO 27002.
+* **[politica-de-seguranca-corporativa](https://github.com/Serginbr7/politica-de-seguranca-corporativa)** - Repositório com documentação prática de Segurança da Informação (Controle de Acesso, Resposta a Incidentes e Hardening), com base nos controles da norma ISO 27002.
 
 *Em breve, novos projetos...*
 
